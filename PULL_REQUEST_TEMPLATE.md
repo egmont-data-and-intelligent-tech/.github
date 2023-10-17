@@ -13,10 +13,6 @@
 <!-- (TODO: chose one of the five options. Note that high or top impact changes are flagged for review by Change Board) -->
 none | low | medium | high | top
 
-### Change type
-<!-- (TODO: choose a change type) -->
-Corporate Services | Business Application | Both
-
 ### Risks
 <!--(TODO: fill out if any risks can occur (This is just an example) (Add row if multiple risks)) -->
 | Risk title | Likelihood (low, medium, high) | Impact (low, medium, high) | Mitigation |
